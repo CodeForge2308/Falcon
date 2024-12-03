@@ -111,7 +111,7 @@ We welcome contributions to make Falcon better! Please check out our [Contributi
 
 ## 📧 Contact  
 
-Have questions or feedback? Reach out to us at **[email@example.com](mailto:email@example.com)**.  
+Have questions or feedback? Reach out to us at **[kdevanshsharma23@gmail.com](mailto:kdevanshsharma23@gmail.com)**.  
 
 ---
 
